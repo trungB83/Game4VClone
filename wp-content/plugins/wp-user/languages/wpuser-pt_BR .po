@@ -1,0 +1,589 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-userLast-Translator:\n"
+"Language-Team: wpuser <y.bejgamwar@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;_e\n"
+"X-Poedit-Basepath: .\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"X-Poedit-SearchPath-0: wp-user\n"
+
+#: wp-user/admin/class-admin-ajax-action.php:32
+#: wp-user/admin/class-admin-ajax-action.php:40
+#: wp-user/admin/class-admin-ajax-action.php:165
+#: wp-user/admin/class-admin-ajax-action.php:173
+#: wp-user/admin/class-admin-ajax-action.php:248
+#: wp-user/admin/class-admin-ajax-action.php:256
+msgid ""
+"Invalid form data. form request came from the somewhere else not current "
+"site!"
+msgstr ""
+"Dados de formulário inválidos. O pedido de formulário veio do outro lado do "
+"site não atual!"
+
+#: wp-user/admin/view/notification.php:133
+msgid "You have "
+msgstr "Você tem"
+
+#: wp-user/admin/view/view-header.php:6
+msgid "Wp User"
+msgstr "Usuário Wp"
+
+#: wp-user/admin/view/view-header.php:99
+msgid " Wp User"
+msgstr "Usuário Wp"
+
+#: wp-user/admin/view/view-addon.php:104
+#: wp-user/admin/view/view-user-list.php:8
+msgid "WP User"
+msgstr "Usuário Wp"
+
+#: wp-user/admin/view/view-addon.php:105 wp-user/admin/view/view-addon.php:109
+msgid "Add-ons"
+msgstr "Add-ons"
+
+#: wp-user/admin/view/view-addon.php:108
+#: wp-user/admin/view/view-user-list.php:12
+msgid "Home"
+msgstr "Casa"
+
+#: wp-user/admin/view/view-addon.php:120
+msgid "Pro Add-ons"
+msgstr "Complementos Pro"
+
+#: wp-user/admin/view/view-addon.php:123
+msgid "Features"
+msgstr "Características"
+
+#: wp-user/admin/view/view-addon.php:132
+msgid "WP User Add-ons"
+msgstr "Complementos de usuário WP"
+
+#: wp-user/admin/view/view-addon.php:135
+msgid "Get all add-ons access and Premium Support with"
+msgstr "Obtenha todos os complementos de acesso e Suporte Premium com"
+
+#: wp-user/admin/view/view-addon.php:137
+msgid "Personal/Business/Developer"
+msgstr "Pessoal / Empresa / Desenvolvedor"
+
+#: wp-user/admin/view/view-addon.php:138
+msgid "Pack (All Pro Features)"
+msgstr "Pack (Todos os recursos Pro)"
+
+#: wp-user/admin/view/view-addon.php:168
+msgid "Deactivate"
+msgstr "Desativar"
+
+#: wp-user/admin/view/view-addon.php:173
+msgid "Activate"
+msgstr "Ativar"
+
+#: wp-user/admin/view/view-addon.php:178 wp-user/admin/view/view-addon.php:204
+#: wp-user/admin/view/view-footer.php:15
+msgid "Buy Now"
+msgstr "Compre"
+
+#: wp-user/admin/view/view-addon.php:196 wp-user/admin/view/view-footer.php:7
+msgid "Documentation"
+msgstr "Documentação"
+
+#: wp-user/admin/view/view-addon.php:200 wp-user/admin/view/view-addon.php:221
+#: wp-user/admin/view/view-addon.php:231 wp-user/admin/view/view-addon.php:506
+#: wp-user/admin/view/view-addon.php:519 wp-user/admin/view/view-footer.php:11
+msgid "Support"
+msgstr "Apoio, suporte"
+
+#: wp-user/admin/view/view-addon.php:221 wp-user/admin/view/view-addon.php:506
+msgid "Paid Customization"
+msgstr "Personalização paga"
+
+#: wp-user/admin/view/view-addon.php:242
+msgid "Free"
+msgstr "Livre"
+
+#: wp-user/admin/view/view-addon.php:412
+msgid "Pro"
+msgstr "Pró"
+
+#: wp-user/admin/view/view-user-list.php:13
+#: wp-user/admin/view/view-user-list.php:29
+msgid "Users"
+msgstr "Comercial"
+
+#: wp-user/admin/view/view-user-list.php:31
+msgid "Login Log"
+msgstr "Login Log"
+
+#: wp-user/admin/view/view-user-list.php:87 wp-user/user/shortcode.php:462
+msgid "Error"
+msgstr "Erro"
+
+#: wp-user/admin/view/view-user-list.php:91
+#: wp-user/admin/view/view-user-list.php:470
+msgid "Approved"
+msgstr "Aprovado"
+
+#: wp-user/admin/view/view-user-list.php:92
+#: wp-user/admin/view/view-user-list.php:210
+msgid "Deny"
+msgstr "Negar"
+
+#: wp-user/admin/view/view-user-list.php:96
+#: wp-user/admin/view/view-user-list.php:466
+msgid "Denied"
+msgstr "Negado"
+
+#: wp-user/admin/view/view-user-list.php:97
+#: wp-user/admin/view/view-user-list.php:208
+msgid "Approve"
+msgstr "Aprovar"
+
+#: wp-user/admin/view/view-user-list.php:129
+#: wp-user/admin/view/view-user-list.php:510
+msgid "Only Include these fields in export"
+msgstr "Apenas inclua esses campos na exportação"
+
+#: wp-user/admin/view/view-user-list.php:134
+msgid ""
+"A comma seperated list of fields to include only in the export. e.g.  ID,"
+"user_login,user_nicename,display_name,user_email"
+msgstr ""
+"Uma lista de campos separada por vírgulas para incluir apenas na exportação. "
+"por exemplo. ID, user_login, user_nicename, display_name, user_email"
+
+#: wp-user/admin/view/view-user-list.php:147
+#: wp-user/admin/view/view-user-list.php:529 wp-user/user/shortcode.php:556
+msgid "Search"
+msgstr "Pesquisa"
+
+#: wp-user/admin/view/view-user-list.php:175
+msgid "Filter by Type"
+msgstr "Filtrar por Tipo"
+
+#: wp-user/admin/view/view-user-list.php:185
+msgid "All"
+msgstr "Todos"
+
+#: wp-user/admin/view/view-user-list.php:206
+msgid "Bulk Actions"
+msgstr "Ações em massa"
+
+#: wp-user/admin/view/view-user-list.php:212
+msgid "Export CSV"
+msgstr "Exportar CSV"
+
+#: wp-user/admin/view/view-user-list.php:219
+msgid "Apply"
+msgstr "Aplique"
+
+#: wp-user/admin/view/view-user-list.php:241
+#: wp-user/admin/view/view-user-list.php:561
+msgid "Sort by"
+msgstr "Ordenar por"
+
+#: wp-user/admin/view/view-user-list.php:253
+msgid "Username A-Z"
+msgstr "Nome de usuário A-Z"
+
+#: wp-user/admin/view/view-user-list.php:261
+msgid "Username Z-A"
+msgstr "Nome de usuário Z-A"
+
+#: wp-user/admin/view/view-user-list.php:272
+msgid "Name A-Z"
+msgstr "Nome A-Z"
+
+#: wp-user/admin/view/view-user-list.php:280
+msgid "Name Z-A"
+msgstr "Nome Z-A"
+
+#: wp-user/admin/view/view-user-list.php:291
+msgid "Role Asc"
+msgstr "Papel Asc"
+
+#: wp-user/admin/view/view-user-list.php:299
+msgid "Role Desc"
+msgstr "Role Desc"
+
+#: wp-user/admin/view/view-user-list.php:310
+msgid "Status Asc"
+msgstr "Status Asc"
+
+#: wp-user/admin/view/view-user-list.php:319
+msgid "Status Desc"
+msgstr "Status Desc"
+
+#: wp-user/admin/view/view-user-list.php:348
+#: wp-user/admin/view/view-user-list.php:648
+msgid "Items per Page"
+msgstr "Itens por página"
+
+#: wp-user/admin/view/view-user-list.php:360
+#: wp-user/admin/view/view-user-list.php:660
+msgid "10 per page"
+msgstr "10 por página"
+
+#: wp-user/admin/view/view-user-list.php:368
+#: wp-user/admin/view/view-user-list.php:668 wp-user/user/shortcode.php:711
+msgid "20 per page"
+msgstr "20 por página"
+
+#: wp-user/admin/view/view-user-list.php:376
+#: wp-user/admin/view/view-user-list.php:676 wp-user/user/shortcode.php:719
+msgid "50 per page"
+msgstr "50 por página"
+
+#: wp-user/admin/view/view-user-list.php:387 wp-user/user/shortcode.php:730
+msgid "ViewAll"
+msgstr "Ver tudo"
+
+#: wp-user/admin/view/view-user-list.php:421
+#: wp-user/user/class-user-my-profile.php:106
+#: wp-user/user/view/widgetView.php:87
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: wp-user/admin/view/view-user-list.php:425
+msgid "Name"
+msgstr "Nome"
+
+#: wp-user/admin/view/view-user-list.php:428
+#: wp-user/admin/view/view-user-list.php:728 wp-user/user/shortcode.php:262
+#: wp-user/user/view/widgetView.php:55 wp-user/user/view/widgetView.php:95
+msgid "Email"
+msgstr "O email"
+
+#: wp-user/admin/view/view-user-list.php:431
+msgid "Role"
+msgstr "Função"
+
+#: wp-user/admin/view/view-user-list.php:434
+msgid "Status"
+msgstr "Status"
+
+#: wp-user/admin/view/view-user-list.php:474
+msgid "Pending"
+msgstr "Pendente"
+
+#: wp-user/admin/view/view-user-list.php:494
+msgid ""
+"Track records of user login with set of multiple information like ip,time,"
+"user name,browser information etc"
+msgstr ""
+"Acompanhe registros do login do usuário com um conjunto de informações "
+"múltiplas, como ip, hora, nome de usuário, informações do navegador, etc."
+
+#: wp-user/admin/view/view-user-list.php:573
+msgid "Time Asc"
+msgstr "Time Asc"
+
+#: wp-user/admin/view/view-user-list.php:582
+msgid "Time Desc"
+msgstr "Tempo Desc"
+
+#: wp-user/admin/view/view-user-list.php:594
+msgid "User ID A-Z"
+msgstr "ID de usuário A-Z"
+
+#: wp-user/admin/view/view-user-list.php:602
+msgid "User ID Z-A"
+msgstr "ID do usuário Z-A"
+
+#: wp-user/admin/view/view-user-list.php:613
+msgid "User A-Z"
+msgstr "Usuário A-Z"
+
+#: wp-user/admin/view/view-user-list.php:620
+msgid "User Z-A"
+msgstr "Usuário Z-A"
+
+#: wp-user/admin/view/view-user-list.php:687
+msgid "View All"
+msgstr "Ver tudo"
+
+#: wp-user/admin/view/view-user-list.php:722
+msgid "ID"
+msgstr "identidade"
+
+#: wp-user/admin/view/view-user-list.php:725
+msgid "User"
+msgstr "Do utilizador"
+
+#: wp-user/admin/view/view-user-list.php:731
+msgid "Description"
+msgstr "Descrição"
+
+#: wp-user/admin/view/view-user-list.php:734
+msgid "IP"
+msgstr "IP"
+
+#: wp-user/admin/view/view-user-list.php:737
+msgid "Time"
+msgstr "Tempo"
+
+#: wp-user/admin/view/view-user-list.php:774
+msgid "No Login Logs Found"
+msgstr "Não foram encontrados logs de login"
+
+#: wp-user/admin/view/view-footer.php:15
+msgid "Pro Version"
+msgstr "Versão Pro"
+
+#: wp-user/admin/view/view-footer.php:24
+msgid "If you like WP User please leave us"
+msgstr "Se você gosta do usuário WP, deixe-nos"
+
+#: wp-user/admin/view/view-footer.php:28
+msgid "A huge thank you from WP User in advance!"
+msgstr "Um grande agradecimento do usuário WP com antecedência!"
+
+#: wp-user/admin/view/view-setting.php:23
+msgid "General"
+msgstr "Geral"
+
+#: wp-user/admin/view/view-setting.php:25
+msgid "Page Setup"
+msgstr "Configurações da página"
+
+#: wp-user/admin/view/view-setting.php:27
+msgid "Security"
+msgstr "Segurança"
+
+#: wp-user/admin/view/view-setting.php:29
+msgid "Email Notifications"
+msgstr "Notificações de e-mail"
+
+#: wp-user/admin/view/view-setting.php:38
+msgid "Help"
+msgstr "Socorro"
+
+#: wp-user/admin/view/view-setting.php:40
+msgid "Subscribe"
+msgstr "Se inscrever"
+
+#: wp-user/admin/view/view-setting.php:84
+#: wp-user/admin/view/view-setting.php:237
+#: wp-user/admin/view/view-setting.php:291
+msgid "Update"
+msgstr "Atualizar"
+
+#: wp-user/admin/view/view-setting.php:92
+msgid "Page"
+msgstr "Página"
+
+#: wp-user/admin/view/view-setting.php:107
+msgid "WP User Page"
+msgstr "Página de usuário WP"
+
+#: wp-user/admin/view/view-setting.php:121
+#: wp-user/admin/view/view-setting.php:139
+msgid "View Page"
+msgstr "Ver pagina"
+
+#: wp-user/admin/view/view-setting.php:133
+msgid "WP User Members Page"
+msgstr "Página de usuários do WP"
+
+#: wp-user/admin/view/view-setting.php:156
+msgid "Page Title"
+msgstr "Título da página"
+
+#: wp-user/admin/view/view-setting.php:166
+msgid "Member Page Title"
+msgstr "Título da Página do Membro"
+
+#: wp-user/admin/view/view-setting.php:175
+msgid "Rebuild Pages"
+msgstr "Reconstruir Páginas"
+
+#: wp-user/admin/view/view-setting.php:177
+msgid ""
+"OR Use [wp_user] shortcode for display login, registration, forgot password "
+"form."
+msgstr ""
+"OU Use [wp_user] shortcode para login, registro, formulário de senha "
+"esquecida."
+
+#: wp-user/admin/view/view-setting.php:179
+msgid "Use [wp_user_member] shortcode for display members/users list."
+msgstr ""
+"Use [wp_user_member] shortcode para membros de exibição / lista de usuários."
+
+#: wp-user/admin/view/view-setting.php:312
+msgid "Shortcode"
+msgstr "Código curto"
+
+#: wp-user/admin/view/view-setting.php:320
+msgid ""
+"\n"
+"                                    <b> [wp_user] </b> shortcode for display "
+"login, registration, forgot password form.<br>\n"
+"                                    You Can use following attributes for "
+"custom form<br>\n"
+"                                    <b>[wp_user id='1234' width='360px' "
+"popup='1' active='register' role='subscriber' login_redirect='"
+msgstr ""
+
+#: wp-user/admin/view/view-setting.php:395
+msgid "Disable Signup Form"
+msgstr "Disable Signup Form"
+
+#: wp-user/admin/view/view-setting.php:403
+msgid ""
+"Go to Dashboard->WP User ->General <br>\n"
+"                                            1) Click on 'Disable Signup "
+"Form' check box.<br> \n"
+"                                            2) Click on 'Update' for Save "
+"setting"
+msgstr ""
+
+#: wp-user/user/widget.php:64 wp-user/user/shortcode.php:103
+#: wp-user/user/filter.php:353 wp-user/user/view/profile.php:158
+msgid "Logout"
+msgstr "Sair"
+
+#: wp-user/user/widget.php:104
+msgid "Logged-out title"
+msgstr "Título logado"
+
+#: wp-user/user/widget.php:112
+msgid "Logged-in title"
+msgstr "Título logado"
+
+#: wp-user/user/widget.php:123
+msgid "Show Register tab"
+msgstr "Separador Mostrar registo"
+
+#: wp-user/user/widget.php:131
+msgid "Show forgot password tab"
+msgstr "Mostrar guia Esqueceu a senha"
+
+#: wp-user/user/widget.php:139
+msgid "Show field icons"
+msgstr "Mostrar ícones de campo"
+
+#: wp-user/user/widget.php:147
+msgid "Show logged-in user avatar"
+msgstr "Mostrar o avatar de usuário conectado"
+
+#: wp-user/user/shortcode.php:112 wp-user/user/view/register.php:5
+#: wp-user/user/view/register.php:76 wp-user/user/view/login.php:42
+#: wp-user/user/view/widgetView.php:42 wp-user/user/view/widgetView.php:151
+msgid "Sign Up"
+msgstr "Inscrever-se"
+
+#: wp-user/user/shortcode.php:114 wp-user/user/view/register.php:88
+#: wp-user/user/view/login.php:5 wp-user/user/view/login.php:29
+#: wp-user/user/view/widgetView.php:30 wp-user/user/view/widgetView.php:71
+#: wp-user/user/view/widgetView.php:158 wp-user/user/view/forgot.php:33
+msgid "Sign In"
+msgstr "Assinar em"
+
+#: wp-user/user/shortcode.php:246
+msgid "Send Message to"
+msgstr "Enviar mensagem para"
+
+#: wp-user/user/shortcode.php:260
+msgid "From"
+msgstr "A partir de"
+
+#: wp-user/user/shortcode.php:265 wp-user/user/shortcode.php:267
+msgid "Subject"
+msgstr "Sujeito"
+
+#: wp-user/user/shortcode.php:270 wp-user/user/shortcode.php:272
+msgid "Message"
+msgstr "mensagem"
+
+#: wp-user/user/shortcode.php:290
+msgid "Close"
+msgstr "Fechar"
+
+#: wp-user/user/shortcode.php:294 wp-user/user/class-user-my-profile.php:448
+msgid "Send"
+msgstr "Enviar"
+
+#: wp-user/user/shortcode.php:306
+msgid "Member List"
+msgstr "Lista de membros"
+
+#: wp-user/user/shortcode.php:331
+msgid "Send Mail"
+msgstr "Enviar correio"
+
+#: wp-user/user/shortcode.php:703
+msgid " per page"
+msgstr "por página"
+
+#: wp-user/user/class-user-action.php:446
+#: wp-user/user/class-user-action.php:542
+msgid "Invalid Password"
+msgstr "senha inválida"
+
+#: wp-user/user/class-user-action.php:930
+msgid "Your account has been aprroved. "
+msgstr "Sua conta foi aprovada."
+
+#: wp-user/user/class-user-action.php:932
+msgid "Click here to login."
+msgstr "Clique aqui para logar."
+
+#: wp-user/user/filter.php:275
+msgid "You have <span class=\"notification_count\">"
+msgstr ""
+
+#: wp-user/user/filter.php:348
+msgid "Profile"
+msgstr "Perfil"
+
+#: wp-user/user/class-user-my-profile.php:113
+msgid "Display name"
+msgstr "Mostrar nome"
+
+#: wp-user/user/view/profile.php:134
+msgid "Profile Information"
+msgstr "Informação do Perfil"
+
+#: wp-user/user/view/profile.php:190
+msgid "Notifications"
+msgstr "Notificações"
+
+#: wp-user/user/view/profile.php:192
+msgid "Clear All"
+msgstr "Limpar tudo"
+
+#: wp-user/user/view/register.php:49 wp-user/user/view/widgetView.php:125
+msgid "I agree to the"
+msgstr "Estou de acordo com"
+
+#: wp-user/user/view/register.php:49 wp-user/user/view/widgetView.php:125
+msgid "terms"
+msgstr "termos"
+
+#: wp-user/user/view/login.php:7 wp-user/user/view/widgetView.php:37
+#: wp-user/user/view/forgot.php:4
+msgid "Forgot Password"
+msgstr "Esqueceu a senha"
+
+#: wp-user/user/view/widgetView.php:12
+msgid "Username or Email"
+msgstr "Nome de usuário ou email"
+
+#: wp-user/user/view/widgetView.php:20 wp-user/user/view/widgetView.php:103
+msgid "Password"
+msgstr "Senha"
+
+#: wp-user/user/view/widgetView.php:64 wp-user/user/view/forgot.php:24
+msgid "Forgot"
+msgstr "Esqueci"
+
+#: wp-user/user/view/widgetView.php:111
+msgid "Retype Password"
+msgstr "Redigite a senha"

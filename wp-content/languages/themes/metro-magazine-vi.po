@@ -1,0 +1,1078 @@
+# Translation of Themes - Metro Magazine in Vietnamese
+# This file is distributed under the same license as the Themes - Metro Magazine package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-16 06:46:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Metro Magazine\n"
+
+#. Theme Name of the theme
+msgid "Metro Magazine"
+msgstr "Metro Magazine"
+
+#: inc/template-functions.php:98
+msgid "Mobile"
+msgstr "Di động"
+
+#: inc/template-functions.php:1004
+msgid ")"
+msgstr ")"
+
+#: inc/template-functions.php:1004
+msgid " (Page"
+msgstr "(Trang"
+
+#: inc/extras.php:372 inc/extras.php:377
+msgid "Email"
+msgstr "Email"
+
+#: inc/extras.php:371 inc/extras.php:375
+msgid "Name"
+msgstr "Tên"
+
+#. translators: If there are characters in your language that are not supported
+#. by Playfair Display, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/extras.php:512
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "trên"
+
+#. translators: If there are characters in your language that are not supported
+#. by Ubuntu, translate this to 'off'. Do not translate into your own language.
+#: inc/extras.php:506
+msgctxt "Ubuntu font: on or off"
+msgid "on"
+msgstr "trên"
+
+#: inc/template-functions.php:985
+msgid "Page %s"
+msgstr "Trang %s"
+
+#: inc/template-functions.php:902
+msgid "d"
+msgstr "d"
+
+#: inc/template-functions.php:900 inc/template-functions.php:908
+msgid "F"
+msgstr "F"
+
+#: inc/template-functions.php:900
+msgid "m"
+msgstr "m"
+
+#: inc/template-functions.php:979
+msgid "\""
+msgstr "\""
+
+#: inc/template-functions.php:979
+msgid "Search Results for \""
+msgstr "Kết quả tìm kiếm cho \""
+
+#: inc/template-functions.php:51
+msgid "Skip to content (Press Enter)"
+msgstr "Bỏ qua và tới nội dung (ấn Enter)"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:13
+msgid "View Pro"
+msgstr "Xem bản Trả phí Pro"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:11
+msgid "Free vs Pro"
+msgstr "Miễn phí vs Trả phí Pro"
+
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the knowledge base"
+msgstr "Hãy xem các kiến thức cơ bản"
+
+#: inc/getting-started/tabs/link-panel.php:21
+msgid "Our documentation comes with a step-by-step guide from installing WordPress to customizing our theme to creating an attractive and engaging website."
+msgstr "Tài liệu của chúng tôi có bài hướng dẫn cụ thể bạn từng bước từ cách cài đặt WordPress cho tới cách tuỳ biến giao diện để tạo ra một trang web hấp dẫn và thu hút người dùng. "
+
+#: inc/getting-started/tabs/link-panel.php:20
+msgid "Need help with WordPress and our theme as quickly as possible? Visit our well-organized documentation."
+msgstr "Bạn cần trợ giúp nhanh nhất có thể để cài đặt WordPress và giao diện? Hãy truy cập các tài liệu hướng dẫn của chúng tôi."
+
+#: inc/getting-started/tabs/link-panel.php:19
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the Knowledge Base"
+msgstr "Hãy xem các kiến thức cơ bản"
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "Read more about the features here"
+msgstr "Tìm hiểu thêm các tính năng ở đây"
+
+#: inc/getting-started/tabs/link-panel.php:13
+#: inc/getting-started/tabs/free-vs-pro-panel.php:12
+msgid "View Premium Version"
+msgstr "Xem bản Trả phí Premium"
+
+#: inc/getting-started/tabs/link-panel.php:10
+msgid "Upgrade To Pro"
+msgstr "Nâng cấp lên bản Trả phí Pro"
+
+#: inc/getting-started/tabs/support-panel.php:53
+msgid "Please ensure that you have updated to the latest version of the theme before you submit a support ticket for any issue. We might have already fixed the bug in the previous theme update."
+msgstr "Vui lòng đảm bảo rằng bạn đã cập nhật lên phiên bản mới nhất của chủ đề trước khi bạn gửi một phiếu hỗ trợ cho bất kỳ vấn đề nào. Chúng tôi có thể đã sửa lỗi trong bản cập nhật chủ đề trước đó."
+
+#: inc/getting-started/tabs/support-panel.php:51
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr "Làm thế nào để tôi có thể giải quyết vấn đề của mình nhanh chóng và nhận được sự hỗ trợ nhanh hơn?"
+
+#: inc/getting-started/tabs/support-panel.php:46
+msgid "If this didn't help, please contact us via our %1$sSupport Ticket%2$s."
+msgstr "Nếu điều này không có tác dụng, xin vui lòng liên hệ với chúng tôi qua %1$s Support Ticket%2$s."
+
+#: inc/getting-started/tabs/support-panel.php:45
+msgid "To solve the issue, deactivate all the plugins first, except the ones recommended by the theme. Then, hard reload your website using %1$s\"Ctrl+Shift+R\"%2$s on Windows and %1$s\"Cmd+Shift+R\"%2$s on Mac. If the issues are fixed, start activating the plugins one by one, and reload and check your site each time. This will help you find out the plugin that is causing the problem."
+msgstr "Để giải quyết vấn đề, trước tiên hãy hủy kích hoạt tất cả các plugin, ngoại trừ các plugin được đề xuất bởi gói giao diện. Sau đó, hãy tải lại trang web của bạn bằng %1$s\"Ctrl+Shift+R\"%2$s trên Windows và %1$s\"Cmd+Shift+R\"%2$s trên Mac. Nếu sự cố đã được khắc phục, hãy bắt đầu kích hoạt từng plugin một, đồng thời tải lại và kiểm tra trang web của bạn mỗi lần. Điều này sẽ giúp bạn tìm ra các plugin gây ra vấn đề."
+
+#: inc/getting-started/tabs/support-panel.php:44
+msgid "If your customizer is not loading properly or you are having issues with the theme, it might be due to the plugin conflict."
+msgstr "Nếu trình tùy chỉnh của bạn không tải đúng cách hoặc bạn đang gặp vấn đề với gói giao diện, thì đó có thể là do xung đột plugin."
+
+#: inc/getting-started/tabs/support-panel.php:42
+msgid "Why is my theme not working well?"
+msgstr "Tại sao gói giao diện của tôi không hoạt động tốt?"
+
+#: inc/getting-started/tabs/support-panel.php:37
+msgid "You can change the copyright text going to %1$sAppearance > Customize > Footer Settings%2$s. However, if you want to hide the author credit text, please %3$supgrade to the Pro version%4$s."
+msgstr "Bạn có thể thay đổi ghi chú bản quyền tại %1$sGiao diện > Tùy biến > Cài đặt Footer%2$s. Tuy nhiên, nếu bạn muốn ẩn tên tác giả, hãy %3$snâng cấp lên phiên bản Pro%4$s."
+
+#: inc/getting-started/tabs/support-panel.php:35
+msgid "How do I change the copyright text?"
+msgstr "Làm sao để tôi thay đổi nội dung dòng ghi chú bản quyền?"
+
+#: inc/getting-started/tabs/support-panel.php:30
+msgid "The Pro version is built with lots of flexibility in mind for future upgrades. Therefore, it is slightly different than the free theme but extremely flexible and easy-to-use."
+msgstr "Phiên bản Pro được xây dựng với rất nhiều sự linh hoạt để nâng cấp trong tương lai. Do đó, nó hơi khác so với giao diện miễn phí nhưng cực kỳ linh hoạt và dễ sử dụng."
+
+#: inc/getting-started/tabs/support-panel.php:29
+msgid "However, since the Pro version comes with added features and settings, you will need to set up the additional features in the customizer. This process is simple and only takes a few minutes."
+msgstr "Tuy nhiên, vì phiên bản Pro đi kèm với các tính năng và cài đặt bổ sung, bạn sẽ cần thiết lập các tính năng bổ sung trong tùy biến. Quá trình này rất đơn giản và chỉ mất vài phút."
+
+#: inc/getting-started/tabs/support-panel.php:28
+msgid "When you upgrade to the Pro theme, your posts, pages, media, categories, and other data will remain intact-- all your data is saved."
+msgstr "Khi bạn nâng cấp lên bản giao diện trả phí Pro, các bài viết, dữ liệu media, các danh mục, và các dữ liệu khác đều được giữ toàn vẹn -- tất cả dữ liệu của bạn đều được lưu lại. "
+
+#: inc/getting-started/tabs/support-panel.php:26
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr "Nâng cấp lên bản Pro - tôi có bị mất các chỉnh sửa cũ?"
+
+#: inc/getting-started/tabs/support-panel.php:21
+msgid "Along with the additional features and regular updates, you get dedicated and quick support with the premium theme. If you run into any issue while creating a website with the premium theme, you will get a quicker response compared to the free support."
+msgstr "Cùng với các tính năng mở rộng và các cập nhật thường xuyên, bạn còn nhận được sự hỗ trợ một cách tích cực và nhanh chóng khi sở hữu bản giao diện trả phí Premium. Nếu bạn gặp bất kỳ vấn đề gì khi xây dựng trang web với gói giao diện Premium, bạn sẽ nhận được hồi đáp nhanh hơn nhiều so với sự hỗ trợ miễn phí."
+
+#: inc/getting-started/tabs/support-panel.php:19
+msgid "What are the perks of upgrading to the Premium version?"
+msgstr "Ưu điểm khi nâng cấp lên bản trả phí Premium là gì?"
+
+#: inc/getting-started/tabs/support-panel.php:14
+msgid "Overall, you will have more control over the customization and editing of your website with the Pro version."
+msgstr "Một cách tổng thể, bạn sẽ có nhiều sự kiểm soát và tuỳ chỉnh hơn cho việc xây dựng trang web của bạn khi sở hữu bản trả phí Pro."
+
+#: inc/getting-started/tabs/support-panel.php:11
+msgid "What is the difference between Free and Pro?"
+msgstr "Khác biệt giữa bản Miễn phí và Pro là gì?"
+
+#: inc/getting-started/tabs/plugins-panel.php:40
+msgid "Version %s"
+msgstr "Phiên bản %s"
+
+#: inc/getting-started/tabs/plugins-panel.php:30
+msgid "These Free Plugins might be handy for you."
+msgstr "Những Plugin miễn phí này có thể hữu ích cho bạn."
+
+#: inc/getting-started/tabs/plugins-panel.php:29
+msgid "Free Plugins"
+msgstr "Plugin miễn phí"
+
+#: inc/getting-started/tabs/help-panel.php:32
+msgid "View Demo"
+msgstr "Xem demo"
+
+#: inc/getting-started/tabs/help-panel.php:31
+msgid "Visit the Demo"
+msgstr "Truy cập demo"
+
+#: inc/getting-started/tabs/help-panel.php:30
+msgid "Visit the demo to get more idea about our theme design and its features."
+msgstr "Truy cập bản demo để hiểu thêm về giao diện thiết kế và các tính năng của chúng."
+
+#: inc/getting-started/tabs/help-panel.php:29
+msgid "View Our %1$s Demo"
+msgstr "Xem demo %1$s của chúng tôi"
+
+#: inc/getting-started/tabs/help-panel.php:24
+msgid "Contact Support"
+msgstr "Liên hệ để được hỗ trợ"
+
+#: inc/getting-started/tabs/help-panel.php:23
+msgid "Visit the Support"
+msgstr "Truy cập hỗ trợ"
+
+#: inc/getting-started/tabs/help-panel.php:22
+msgid "If the Documentation Guide didn't help you, contact us via our %1$sSupport Ticket%2$s. We reply to all the support queries within one business day, except on the weekends."
+msgstr "Nếu Tài Liệu Hướng Dẫn không có tác dụng, hãy liên hệ với chúng tôi qua %1$sPhiếu Hỗ Trợ%2$s. Chúng tôi trả lời tất cả Yêu cầu Trợ giúp trong vòng một ngày làm việc, trừ các ngày cuối tuần."
+
+#: inc/getting-started/tabs/help-panel.php:21
+msgid "It's always better to visit our %1$sDocumentation Guide%2$s before you send us a support query."
+msgstr "Sẽ luôn là tốt hơn khi bạn tham khảo %1$sTài Liệu Hướng Dẫn%2$s của chúng tôi trước khi gửi đi một Yêu Cấu Trợ Giúp."
+
+#: inc/getting-started/tabs/help-panel.php:20
+msgid "Support Ticket"
+msgstr "Phiếu Hỗ Trợ"
+
+#: inc/getting-started/tabs/help-panel.php:15
+msgid "View Documentation"
+msgstr "Xem tài liệu hướng dẫn"
+
+#: inc/getting-started/tabs/help-panel.php:14
+msgid "Visit the Documentation"
+msgstr "Truy cập tài liệu hướng dẫn"
+
+#: inc/getting-started/tabs/help-panel.php:13
+msgid "Are you new to the WordPress world? Our step by step easy documentation guide will help you create an attractive and engaging website without any prior coding knowledge or experience."
+msgstr "Có phải bạn là người mới với WordPress? Tài liệu Hướng dẫn từng bước của chúng tôi sẽ giúp bạn tạo dựng một trang web hấp dẫn và thu hút khách hàng mà không cần có sẵn bất kỳ kiến thức hay kinh nghiệm lập trình nào trước đây."
+
+#: inc/getting-started/tabs/help-panel.php:12
+msgid "View Our Documentation Link"
+msgstr "Xem liên kết tài liệu của chúng tôi"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+msgid "Jetpack Portfolio"
+msgstr "Danh Dục JetPack "
+
+#: inc/getting-started/getting-started.php:145
+msgid "Free Vs Pro"
+msgstr "Miễn phí so với Trả phí"
+
+#: inc/getting-started/getting-started.php:136
+msgid "FAQ's &amp; Support"
+msgstr "Câu hỏi thường gặp &amp; Hỗ trợ"
+
+#: inc/getting-started/getting-started.php:118
+#: inc/getting-started/tabs/plugins-panel.php:10
+msgid "Recommended Plugins"
+msgstr "Plugin đề xuất"
+
+#: inc/getting-started/getting-started.php:106
+msgid "You will find everything you need to get started with %1$s below."
+msgstr "Bạn có thể tìm thấy mọi thứ bạn cần để bắt đầu với %1$s bên dưới."
+
+#: inc/getting-started/getting-started.php:105
+msgid "Getting started with %1$s v%2$s"
+msgstr "Hãy bắt đầu với %1$s v%2$s"
+
+#: inc/getting-started/getting-started.php:16
+#: inc/getting-started/getting-started.php:17
+#: inc/getting-started/getting-started.php:127
+msgid "Getting Started"
+msgstr "Bắt đầu"
+
+#: inc/custom-functions.php:378
+msgid "Dismiss"
+msgstr "Hủy"
+
+#: inc/custom-functions.php:377
+msgid "Go to the getting started."
+msgstr "Hãy bắt đầu"
+
+#: inc/custom-functions.php:376
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr "%1$s hiện đã được cài đặt và sẵn sàng để sử dụng. Nhấp vào bên dưới để xem hướng dẫn sử dụng, plugin cần cài đặt và các chi tiết khác để bắt đầu."
+
+#: inc/custom-functions.php:375
+msgid "Congratulations!"
+msgstr "Chúc mừng!"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:104
+msgid "Deactivate"
+msgstr "Vô hiệu hóa"
+
+#: inc/getting-started/getting-started.php:40
+msgid "Activating "
+msgstr "Đang kích hoạt"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:85
+msgid "Install and activate"
+msgstr "Cài đặt và kích hoạt"
+
+#: inc/tgmpa/recommended-plugins.php:51
+msgid "Rara One Click Demo Import"
+msgstr "Nhập dữ liệu demo với chỉ một cái nhấp chuột - Rara "
+
+#: inc/template-functions.php:898 inc/template-functions.php:900
+#: inc/template-functions.php:906 inc/template-functions.php:911
+#: inc/template-functions.php:1257
+msgid "Y"
+msgstr "Y"
+
+#: inc/tgmpa/recommended-plugins.php:56
+msgid "Regenerate Thumbnails"
+msgstr "Regenerate Thumbnails"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Các Plugin được đề xuất sau đang bị vô hiệu: %1$s"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Các Plugin bắt buộc sau đang bị vô hiệu: %1$s"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Đã có bản cập nhật cho: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Các plugin sau cần được cập nhật lên bản mới nhất để đảm bảo khả năng tương thích tối đa với giao diện: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Các bộ giao diện được đề xuất cần cài plugin sau: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Các giao diện bắt buộc này cần plugin sau: %1$s."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cài đặt Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Tất cả cài đặt đã hoàn tất"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s đã cài đặt thành công."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Đang bắt đầu cài đặt. Quá trình có thể mất thời gian với một số host, hãy kiên nhẫn."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cài và kích hoạt plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Đã hoàn thành tất cả cài đặt và kích hoạt."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ẩn chi tiết"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Hiện chi tiết"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s đã được cài đặt và kích hoạt thành công."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Đang bắt đầu cài đặt và kích hoạt. Quá trình này có thể mất thời gian với một số host, hãy kiên nhẫn."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Cài đặt %1$s không thành công."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Có lỗi trong quá trình cài đặt %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cập nhật Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Kích hoạt plugin không thành công."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Không có sẵn plugin để kích hoạt thời điểm này."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Chưa chọn plugin nào để kích hoạt. Chưa tác vụ nào được thực hiện."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Hiện chưa có plugin nào cần cập nhật tại thời điểm này."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Hiện chưa có plugin nào cần cài đặt tại thời điểm này."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Chưa chọn plugin nào để cập nhật. Chưa tác vụ nào được thực hiện."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Chưa chọn plugin nào để cài đặt. Chưa tác vụ nào được thực hiện."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Cập nhật"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Cài đặt"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Thông báo nâng cấp từ tác giả plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Kích hoạt %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Cập nhật %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Cài đặt %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Trạng thái"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Phiên bản"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Loại"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Nguồn"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Chưa có plugin nào để cài đặt, nâng cấp hay kích hoạt."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Phiên bản hiện có:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Yêu cầu phiên bản tối thiểu:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Phiên bản đã cài đặt:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "không xác định"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Cần kích hoạt <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Cập nhật sẵn có <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Cần cài đặt <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tất cả <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Có khuyến nghị cập nhật"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Có yêu cầu cập nhật"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Cập nhật được yêu cầu không sẵn có"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Đang hoạt động "
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Đã cài đặt nhưng chưa Kích hoạt"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Chưa cài đặt"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Được đóng gói từ trước"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Nguồn bên ngoài"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Kho WordPress"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Được gợi ý"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Bắt buộc"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "và"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Gói plugin cài từ nguồn khác bao gồm nhiều file, nhưng các file không được đóng gói trong cùng một thư mục."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Vui lòng liên hệ với nhà cung cấp plugin và yêu cầu họ đóng gói plugin theo hướng dẫn của WordPress."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Gói plugin từ xa không chứa thư mục với slug phù hợp và việc đổi tên không hoạt động."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Cần cập nhật"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin này cần được cập nhật để tương thích với giao diện của bạn."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Vui lòng liên hệ quản trị viên để được hỗ trợ."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Có một hoặc nhiều hơn các plugin được yêu cầu hoặc đề xuất cài đặt, cập nhật và kích hoạt."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Bỏ qua thông báo này"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tất cả plugin được cài đặt và kích hoạt thành công. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin chưa kích hoạt. Giao diện này yêu cầu phiên bản cao hơn của %s. Vui lòng nâng cấp plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Không cần làm gì khác. Plugin %1$s đã được kích hoạt."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Những plugin sau đây đã cài đặt thành công:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin đã được kích hoạt thành công."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Trở lại Trang quản trị"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Quay về trang cài đặt plugin cần thiết"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Bắt đầu kích hoạt plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Bắt đầu cập nhật plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Bắt đầu cài đặt plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Đã xảy ra sự cố với plugin API."
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Đang cập nhật plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Đang cài đặt plugin: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Cài đặt Plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Cài đặt các plugin bắt buộc"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:89
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: inc/customizer/customizer.php:9
+msgid "Static Front Page"
+msgstr "Trang chủ tĩnh"
+
+#: inc/customizer/footer.php:14
+msgid "Footer Settings"
+msgstr "Cài đặt Chân trang "
+
+#: inc/customizer/blog.php:31 inc/customizer/home.php:462
+msgid "Read More Label"
+msgstr "Nhãn Đọc Tiếp"
+
+#: inc/customizer/blog.php:14
+msgid "Blog Page Settings"
+msgstr "Cài đặt trang Blog"
+
+#: inc/widgets/widget-social-links.php:69
+msgid "GooglePlus"
+msgstr "GooglePlus"
+
+#: inc/extras.php:323 inc/customizer/social.php:160
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc/extras.php:329 inc/customizer/social.php:214
+#: inc/widgets/widget-social-links.php:77
+#: inc/widgets/widget-social-links.php:159
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/extras.php:327 inc/customizer/social.php:196
+#: inc/widgets/widget-social-links.php:75
+#: inc/widgets/widget-social-links.php:154
+msgid "VK"
+msgstr "VK"
+
+#: inc/extras.php:325 inc/customizer/social.php:178
+#: inc/widgets/widget-social-links.php:73
+#: inc/widgets/widget-social-links.php:149
+msgid "OK"
+msgstr "Ok"
+
+#: inc/template-functions.php:790
+msgid "View Detail"
+msgstr "Xem chi tiết"
+
+#: inc/customizer/info.php:151
+msgid "VIEW PRO THEME"
+msgstr "Xem Bộ Giao Diện Pro"
+
+#: inc/customizer/info.php:149
+msgid "Pro Available"
+msgstr "Pro Có Sẵn"
+
+#: inc/customizer/info.php:25
+msgid "Support ticket"
+msgstr "Phiếu hỗ trợ "
+
+#: inc/customizer/info.php:23
+msgid "View documentation"
+msgstr "Xem tài liệu hướng dẫn"
+
+#: inc/customizer/info.php:22
+msgid "View demo"
+msgstr "Xem demo"
+
+#: inc/customizer/info.php:21
+msgid "Need help?"
+msgstr "Bạn cần hỗ trợ?"
+
+#: inc/customizer/info.php:11
+msgid "Information Links"
+msgstr "Các đường dẫn tới thông tin thêm "
+
+#: inc/customizer/info.php:22 inc/customizer/info.php:23
+#: inc/customizer/info.php:24 inc/customizer/info.php:25
+#: inc/customizer/info.php:26 inc/customizer/info.php:27
+msgid "here"
+msgstr "ở đây"
+
+#: inc/customizer/color.php:30
+msgid "Color Scheme"
+msgstr "Chế độ màu"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ chúng tôi không thể tìm thấy nội dung bạn đang mong muốn. Có lẽ công cụ tìm kiếm có thể giúp bạn."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, từ khoá bạn tìm kiếm không có kết quả nào. Vui lòng thử lại với các từ khoá khác."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng xuất bản bài viết đầu tiên? <a href=\"%1$s\">Hãy bắt đầu từ đây</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Không có kết quả"
+
+#: inc/template-functions.php:1262
+msgid "https://wordpress.org/"
+msgstr "https://vi.wordpress.org/"
+
+#: template-parts/content-page.php:28 template-parts/content.php:29
+msgid "Pages:"
+msgstr "Các trang:"
+
+#: 404.php:12
+msgid "404"
+msgstr "404"
+
+#: inc/template-functions.php:308
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho từ khóa: %s"
+
+#: inc/template-functions.php:297
+msgid "404 Error - Page Not Found"
+msgstr "Lỗi 404 - Không tìm thấy trang"
+
+#: inc/metabox.php:40
+msgid "Choose Sidebar Template"
+msgstr "Chọn Mẫu Sidebar"
+
+#: inc/metabox.php:30
+msgid "No Sidebar"
+msgstr "Không Sidebar"
+
+#: inc/metabox.php:13
+msgid "Sidebar Layout"
+msgstr "Bố cục Sidebar"
+
+#: inc/extras.php:147
+msgid "(Edit)"
+msgstr "(Chỉnh sửa)"
+
+#: inc/extras.php:137
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang chờ duyệt."
+
+#. translators: used between list items, there is a space after the comma
+#: inc/extras.php:44
+msgid ", "
+msgstr ","
+
+#: inc/customizer/social.php:14
+msgid "Social Settings"
+msgstr "Cài đặt Mạng xã hội"
+
+#: inc/widgets/widget-social-links.php:109
+#: inc/widgets/widget-popular-post.php:111
+#: inc/widgets/widget-recent-post.php:107
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/customizer/breadcrumb.php:86
+msgid "Breadcrumb Separator"
+msgstr "Dấu phân cách breadcrumb"
+
+#: inc/customizer/breadcrumb.php:78 inc/template-functions.php:850
+msgid ">"
+msgstr ">"
+
+#: inc/customizer/breadcrumb.php:68
+msgid "Breadcrumb Home Text"
+msgstr "Văn bản Breadcrumb trang chủ"
+
+#: inc/customizer/breadcrumb.php:60 inc/template-functions.php:851
+msgid "Home"
+msgstr "Trang chủ"
+
+#: inc/customizer/breadcrumb.php:32
+msgid "Enable Breadcrumb"
+msgstr "Bật Breadcrumb"
+
+#: template-parts/content-search.php:21 template-parts/content-blog.php:9
+#: inc/widgets/widget-featured-post.php:95
+#: inc/widgets/widget-featured-post.php:135
+msgid "Read More"
+msgstr "Đọc tiếp"
+
+#: inc/extras.php:392
+msgid "Comment"
+msgstr "Bình luận"
+
+#: inc/extras.php:379
+msgid "Website"
+msgstr "Trang web"
+
+#: inc/extras.php:372
+msgid "Email*"
+msgstr "Email*"
+
+#: inc/extras.php:371
+msgid "Name*"
+msgstr "Tên*"
+
+#: inc/custom-functions.php:45
+msgid "Primary"
+msgstr "Chính"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Đã tắt bình luận."
+
+#: comments.php:54
+msgid "Newer Comments"
+msgstr "Bình luận mới"
+
+#: comments.php:53
+msgid "Older Comments"
+msgstr "Bình luận cũ"
+
+#: comments.php:50
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: inc/custom-functions.php:46
+msgid "Top Menu"
+msgstr "Menu trên cùng"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Bình luận"
+
+#: 404.php:15
+msgid "homepage."
+msgstr "Trang chủ."
+
+#: inc/customizer/customizer.php:35
+msgid "Choose Category"
+msgstr "Chọn danh mục"
+
+#: inc/customizer/breadcrumb.php:14
+msgid "Breadcrumb Settings"
+msgstr "Cài đặt Breadcrumb "
+
+#: inc/extras.php:200
+msgid "Leave a comment"
+msgstr "Bạn nghĩ gì về bài viết này?"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:39 inc/extras.php:70
+msgid "Edit %s"
+msgstr "Chỉnh sửa %s"
+
+#: inc/extras.php:28
+msgctxt "post author"
+msgid "by %s"
+msgstr "bởi %s"
+
+#: inc/widgets/widget-social-links.php:71
+#: inc/widgets/widget-social-links.php:144
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/extras.php:319 inc/customizer/social.php:124
+#: inc/widgets/widget-social-links.php:67
+#: inc/widgets/widget-social-links.php:119
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/extras.php:315 inc/customizer/social.php:88
+#: inc/widgets/widget-social-links.php:134
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/extras.php:317 inc/customizer/social.php:106
+#: inc/widgets/widget-social-links.php:65
+#: inc/widgets/widget-social-links.php:129
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/extras.php:313 inc/customizer/social.php:70
+#: inc/widgets/widget-social-links.php:61
+#: inc/widgets/widget-social-links.php:124
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/extras.php:311 inc/customizer/social.php:51
+#: inc/widgets/widget-social-links.php:59
+#: inc/widgets/widget-social-links.php:114
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/social.php:33
+msgid "Enable Social Links"
+msgstr "Bật liên kết mạng xã hội"
+
+#: inc/widgets/widget-featured-post.php:110
+msgid "Read More Text"
+msgstr "Đọc thêm"
+
+#: inc/widgets/widget-featured-post.php:100
+msgid "Posts"
+msgstr "Bài viết"
+
+#: inc/template-functions.php:1262
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/template-functions.php:1262
+msgid "Powered by %s."
+msgstr "Cung cấp bởi %s"
+
+#: inc/template-functions.php:1002
+msgid "404 Error - Page not Found"
+msgstr "Lỗi 404 - Không tìm thấy trang"
+
+#: inc/template-functions.php:828
+msgid "View all"
+msgstr "Xem toàn bộ"
+
+#: inc/template-functions.php:779
+msgid "Latest Posts"
+msgstr "Các bài viết mới nhất"
+
+#: inc/metabox.php:25
+msgid "Right Sidebar(default)"
+msgstr "Sidebar Phải (mặc định)"
+
+#: inc/extras.php:200
+msgid "% Comments"
+msgstr "% bình luận"
+
+#: inc/extras.php:200
+msgid "1 Comment"
+msgstr "1 bình luận"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Trang Chủ"
+
+#: inc/widgets/widgets.php:17
+msgid "Add widgets here."
+msgstr "Thêm widget ở đây."
+
+#: inc/widgets/widgets.php:15
+msgid "Right Sidebar"
+msgstr "Sidebar phải"
+
+#: inc/widgets/widget-social-links.php:63
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/widgets/widget-popular-post.php:116
+#: inc/widgets/widget-recent-post.php:112
+msgid "Number of Posts"
+msgstr "Số bài viết"
+
+#. Author URI of the theme
+#: inc/template-functions.php:1261
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: inc/template-functions.php:1261
+msgid "Rara Theme"
+msgstr "Bộ giao diện Rara"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/metro-magazine/"
+msgstr "https://rarathemes.com/wordpress-themes/metro-magazine/"

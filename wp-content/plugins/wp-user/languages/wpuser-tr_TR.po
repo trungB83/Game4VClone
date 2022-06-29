@@ -1,0 +1,644 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-userLast-Translator:\n"
+"Language-Team: wpuser <y.bejgamwar@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;_e\n"
+"X-Poedit-Basepath: .\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"X-Poedit-SearchPath-0: wp-user\n"
+
+#: wp-user/admin/class-admin-ajax-action.php:32
+#: wp-user/admin/class-admin-ajax-action.php:40
+#: wp-user/admin/class-admin-ajax-action.php:165
+#: wp-user/admin/class-admin-ajax-action.php:173
+#: wp-user/admin/class-admin-ajax-action.php:248
+#: wp-user/admin/class-admin-ajax-action.php:256
+msgid ""
+"Invalid form data. form request came from the somewhere else not current "
+"site!"
+msgstr ""
+"Geçersiz form verileri. form isteği güncel olmayan bir yerden geldi
+ "
+"site não atual!"
+
+#: wp-user/admin/view/notification.php:133
+msgid "You have "
+msgstr "Var"
+
+#: wp-user/admin/view/view-header.php:6
+msgid "Wp User"
+msgstr "Wp Kullanıcısı"
+
+#: wp-user/admin/view/view-header.php:99
+msgid " Wp User"
+msgstr "Wp Kullanıcısı"
+
+#: wp-user/admin/view/view-addon.php:104
+#: wp-user/admin/view/view-user-list.php:8
+msgid "WP User"
+msgstr "Wp Kullanıcısı"
+
+#: wp-user/admin/view/view-addon.php:105 wp-user/admin/view/view-addon.php:109
+msgid "Add-ons"
+msgstr "Eklentiler"
+
+#: wp-user/admin/view/view-addon.php:108
+#: wp-user/admin/view/view-user-list.php:12
+msgid "Home"
+msgstr "Ev"
+
+#: wp-user/admin/view/view-addon.php:120
+msgid "Pro Add-ons"
+msgstr "Pro Eklentileri"
+
+#: wp-user/admin/view/view-addon.php:123
+msgid "Features"
+msgstr "Özellikler"
+
+#: wp-user/admin/view/view-addon.php:132
+msgid "WP User Add-ons"
+msgstr "WP Kullanıcı Eklentileri"
+
+#: wp-user/admin/view/view-addon.php:135
+msgid "Get all add-ons access and Premium Support with"
+msgstr "Tüm eklentilere erişin ve Premium Destek ile"
+
+#: wp-user/admin/view/view-addon.php:137
+msgid "Personal/Business/Developer"
+msgstr "Kişisel / İşletme / Geliştirici"
+
+#: wp-user/admin/view/view-addon.php:138
+msgid "Pack (All Pro Features)"
+msgstr "Paket (Tüm Pro Özellikler)"
+
+#: wp-user/admin/view/view-addon.php:168
+msgid "Deactivate"
+msgstr "Devre dışı bırakmak"
+
+#: wp-user/admin/view/view-addon.php:173
+msgid "Activate"
+msgstr "etkinleştirmek"
+
+#: wp-user/admin/view/view-addon.php:178 wp-user/admin/view/view-addon.php:204
+#: wp-user/admin/view/view-footer.php:15
+msgid "Buy Now"
+msgstr "Şimdi satın al"
+
+#: wp-user/admin/view/view-addon.php:196 wp-user/admin/view/view-footer.php:7
+msgid "Documentation"
+msgstr "belgeleme"
+
+#: wp-user/admin/view/view-addon.php:200 wp-user/admin/view/view-addon.php:221
+#: wp-user/admin/view/view-addon.php:231 wp-user/admin/view/view-addon.php:506
+#: wp-user/admin/view/view-addon.php:519 wp-user/admin/view/view-footer.php:11
+msgid "Support"
+msgstr "Destek"
+
+#: wp-user/admin/view/view-addon.php:221 wp-user/admin/view/view-addon.php:506
+msgid "Paid Customization"
+msgstr "Ödenen Özelleştirme"
+
+#: wp-user/admin/view/view-addon.php:242
+msgid "Free"
+msgstr "Ücretsiz"
+
+#: wp-user/admin/view/view-addon.php:412
+msgid "Pro"
+msgstr "profesyonel"
+
+#: wp-user/admin/view/view-user-list.php:13
+#: wp-user/admin/view/view-user-list.php:29
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: wp-user/admin/view/view-user-list.php:31
+msgid "Login Log"
+msgstr "Giriş Günlüğü"
+
+#: wp-user/admin/view/view-user-list.php:87 wp-user/user/shortcode.php:462
+msgid "Error"
+msgstr "Hata"
+
+#: wp-user/admin/view/view-user-list.php:91
+#: wp-user/admin/view/view-user-list.php:470
+msgid "Approved"
+msgstr "onaylı"
+
+#: wp-user/admin/view/view-user-list.php:92
+#: wp-user/admin/view/view-user-list.php:210
+msgid "Deny"
+msgstr "Reddetmek"
+
+#: wp-user/admin/view/view-user-list.php:96
+#: wp-user/admin/view/view-user-list.php:466
+msgid "Denied"
+msgstr "Reddetmek"
+
+#: wp-user/admin/view/view-user-list.php:97
+#: wp-user/admin/view/view-user-list.php:208
+msgid "Approve"
+msgstr "onaylı"
+
+#: wp-user/admin/view/view-user-list.php:129
+#: wp-user/admin/view/view-user-list.php:510
+msgid "Only Include these fields in export"
+msgstr "Yalnızca bu alanları dışa aktarmaya dahil et"
+
+#: wp-user/admin/view/view-user-list.php:134
+msgid ""
+"A comma seperated list of fields to include only in the export. e.g.  ID,"
+"user_login,user_nicename,display_name,user_email"
+msgstr ""
+"Uma lista de campos separada por vírgulas para incluir apenas na exportação. "
+"por exemplo. ID, user_login, user_nicename, display_name, user_email"
+
+#: wp-user/admin/view/view-user-list.php:147
+#: wp-user/admin/view/view-user-list.php:529 wp-user/user/shortcode.php:556
+msgid "Search"
+msgstr "Arama"
+
+#: wp-user/admin/view/view-user-list.php:175
+msgid "Filter by Type"
+msgstr "Türe göre filtrele"
+
+#: wp-user/admin/view/view-user-list.php:185
+msgid "All"
+msgstr "Herşey"
+
+#: wp-user/admin/view/view-user-list.php:206
+msgid "Bulk Actions"
+msgstr "Toplu eylemler"
+
+#: wp-user/admin/view/view-user-list.php:212
+msgid "Export CSV"
+msgstr "CSV’yi Dışa Aktar"
+
+#: wp-user/admin/view/view-user-list.php:219
+msgid "Apply"
+msgstr "Uygulamak"
+
+#: wp-user/admin/view/view-user-list.php:241
+#: wp-user/admin/view/view-user-list.php:561
+msgid "Sort by"
+msgstr "Göre sırala"
+
+#: wp-user/admin/view/view-user-list.php:253
+msgid "Username A-Z"
+msgstr "Kullanıcı adı A-Z"
+
+#: wp-user/admin/view/view-user-list.php:261
+msgid "Username Z-A"
+msgstr "Kullanıcı adı Z-A"
+
+#: wp-user/admin/view/view-user-list.php:272
+msgid "Name A-Z"
+msgstr "Adı A-Z"
+
+#: wp-user/admin/view/view-user-list.php:280
+msgid "Name Z-A"
+msgstr "Adı Z-A"
+
+#: wp-user/admin/view/view-user-list.php:291
+msgid "Role Asc"
+msgstr "Rol Artan"
+
+#: wp-user/admin/view/view-user-list.php:299
+msgid "Role Desc"
+msgstr "Rol Tanımı"
+
+#: wp-user/admin/view/view-user-list.php:310
+msgid "Status Asc"
+msgstr "Durum Artan"
+
+#: wp-user/admin/view/view-user-list.php:319
+msgid "Status Desc"
+msgstr "Durum Açıklaması"
+
+#: wp-user/admin/view/view-user-list.php:348
+#: wp-user/admin/view/view-user-list.php:648
+msgid "Items per Page"
+msgstr "Sayfa başına öğe"
+
+#: wp-user/admin/view/view-user-list.php:360
+#: wp-user/admin/view/view-user-list.php:660
+msgid "10 per page"
+msgstr "Sayfa başına 10"
+
+#: wp-user/admin/view/view-user-list.php:368
+#: wp-user/admin/view/view-user-list.php:668 wp-user/user/shortcode.php:711
+msgid "20 per page"
+msgstr "Sayfa başına 20"
+
+#: wp-user/admin/view/view-user-list.php:376
+#: wp-user/admin/view/view-user-list.php:676 wp-user/user/shortcode.php:719
+msgid "50 per page"
+msgstr "Sayfa başına 50"
+
+#: wp-user/admin/view/view-user-list.php:387 wp-user/user/shortcode.php:730
+msgid "ViewAll"
+msgstr "Hepsini gör"
+
+#: wp-user/admin/view/view-user-list.php:421
+#: wp-user/user/class-user-my-profile.php:106
+#: wp-user/user/view/widgetView.php:87
+msgid "Username"
+msgstr "Kullanıcı adı"
+
+#: wp-user/admin/view/view-user-list.php:425
+msgid "Name"
+msgstr "isim"
+
+#: wp-user/admin/view/view-user-list.php:428
+#: wp-user/admin/view/view-user-list.php:728 wp-user/user/shortcode.php:262
+#: wp-user/user/view/widgetView.php:55 wp-user/user/view/widgetView.php:95
+msgid "Email"
+msgstr "E-posta"
+
+#: wp-user/admin/view/view-user-list.php:431
+msgid "Role"
+msgstr "rol"
+
+#: wp-user/admin/view/view-user-list.php:434
+msgid "Status"
+msgstr "durum"
+
+#: wp-user/admin/view/view-user-list.php:474
+msgid "Pending"
+msgstr "kadar"
+
+#: wp-user/admin/view/view-user-list.php:494
+msgid ""
+"Track records of user login with set of multiple information like ip,time,"
+"user name,browser information etc"
+msgstr ""
+"İp, time gibi birden fazla bilgi içeren kullanıcı girişi kayıtlarını izleyin "
+"kullanıcı adı, tarayıcı bilgisi vb"
+
+#: wp-user/admin/view/view-user-list.php:573
+msgid "Time Asc"
+msgstr "Zaman Artan"
+
+#: wp-user/admin/view/view-user-list.php:582
+msgid "Time Desc"
+msgstr "Zaman Açıklaması"
+
+#: wp-user/admin/view/view-user-list.php:594
+msgid "User ID A-Z"
+msgstr "Kullanıcı Kimliği A-Z"
+
+#: wp-user/admin/view/view-user-list.php:602
+msgid "User ID Z-A"
+msgstr "Kullanıcı Kimliği Z-A"
+
+#: wp-user/admin/view/view-user-list.php:613
+msgid "User A-Z"
+msgstr "Kullanıcı A-Z"
+
+#: wp-user/admin/view/view-user-list.php:620
+msgid "User Z-A"
+msgstr "Kullanıcı Z-A"
+
+#: wp-user/admin/view/view-user-list.php:687
+msgid "View All"
+msgstr "Hepsini gör"
+
+#: wp-user/admin/view/view-user-list.php:722
+msgid "ID"
+msgstr "İD"
+
+#: wp-user/admin/view/view-user-list.php:725
+msgid "User"
+msgstr "kullanıcı"
+
+#: wp-user/admin/view/view-user-list.php:731
+msgid "Description"
+msgstr "Açıklama"
+
+#: wp-user/admin/view/view-user-list.php:734
+msgid "IP"
+msgstr "IP"
+
+#: wp-user/admin/view/view-user-list.php:737
+msgid "Time"
+msgstr "zaman"
+
+#: wp-user/admin/view/view-user-list.php:774
+msgid "No Login Logs Found"
+msgstr "Giriş yapılmadı"
+
+#: wp-user/admin/view/view-footer.php:15
+msgid "Pro Version"
+msgstr "Profesyonel sürüm"
+
+#: wp-user/admin/view/view-footer.php:24
+msgid "If you like WP User please leave us"
+msgstr "WP Kullanıcısını beğendiyseniz lütfen bizi terk edin"
+
+#: wp-user/admin/view/view-footer.php:28
+msgid "A huge thank you from WP User in advance!"
+msgstr "WP Kullanıcısından şimdiden çok teşekkür ederiz!"
+
+#: wp-user/admin/view/view-setting.php:23
+msgid "General"
+msgstr "Genel"
+
+#: wp-user/admin/view/view-setting.php:25
+msgid "Page Setup"
+msgstr "Sayfa ayarı"
+
+#: wp-user/admin/view/view-setting.php:27
+msgid "Security"
+msgstr "Güvenlik"
+
+#: wp-user/admin/view/view-setting.php:29
+msgid "Email Notifications"
+msgstr "Email bildirimleri"
+
+#: wp-user/admin/view/view-setting.php:38
+msgid "Help"
+msgstr "yardım et"
+
+#: wp-user/admin/view/view-setting.php:40
+msgid "Subscribe"
+msgstr "Abone ol"
+
+#: wp-user/admin/view/view-setting.php:84
+#: wp-user/admin/view/view-setting.php:237
+#: wp-user/admin/view/view-setting.php:291
+msgid "Update"
+msgstr "Güncelleştirme"
+
+#: wp-user/admin/view/view-setting.php:92
+msgid "Page"
+msgstr "Sayfa"
+
+#: wp-user/admin/view/view-setting.php:107
+msgid "WP User Page"
+msgstr "WP Kullanıcı Sayfası"
+
+#: wp-user/admin/view/view-setting.php:121
+#: wp-user/admin/view/view-setting.php:139
+msgid "View Page"
+msgstr "Sayfaya bak"
+
+#: wp-user/admin/view/view-setting.php:133
+msgid "WP User Members Page"
+msgstr "WP Kullanıcı Üyeler Sayfası"
+
+#: wp-user/admin/view/view-setting.php:156
+msgid "Page Title"
+msgstr "Sayfa başlığı"
+
+#: wp-user/admin/view/view-setting.php:166
+msgid "Member Page Title"
+msgstr "Üye Sayfa Başlığı"
+
+#: wp-user/admin/view/view-setting.php:175
+msgid "Rebuild Pages"
+msgstr "Sayfaları Yeniden Oluştur"
+
+#: wp-user/admin/view/view-setting.php:177
+msgid ""
+"OR Use [wp_user] shortcode for display login, registration, forgot password "
+"form."
+msgstr ""
+"OU Use VEYA Görüntü giriş, kayıt, şifremi unuttum için [wp_user] kısa kodunu kullanın "
+"form."
+
+#: wp-user/admin/view/view-setting.php:179
+msgid "Use [wp_user_member] shortcode for display members/users list."
+msgstr ""
+"Ekran üyeleri / kullanıcılar listesi için [wp_user_member] kısa kodunu kullanın."
+
+#: wp-user/admin/view/view-setting.php:312
+msgid "Shortcode"
+msgstr "Kısa kod"
+
+#: wp-user/admin/view/view-setting.php:320
+msgid ""
+"\n"
+"                                    <b> [wp_user] </b> shortcode for display "
+"login, registration, forgot password form.<br>\n"
+"                                    You Can use following attributes for "
+"custom form<br>\n"
+"                                    <b>
+<b> [wp_user] </b> gösterilecek kısa kod "
+"giriş, kayıt, şifre formunu unuttum. <br> \ n"
+msgstr ""
+
+#: wp-user/admin/view/view-setting.php:395
+msgid "Disable Signup Form"
+msgstr "Kayıt Formunu Devre Dışı Bırak"
+
+#: wp-user/admin/view/view-setting.php:403
+msgid ""
+"Go to Dashboard->WP User ->General <br>\n"
+"                                            1) Click on 'Disable Signup "
+"Form' check box.<br> \n"
+"                                            2) Click on 'Update' for Save "
+"setting"
+msgstr ""
+
+#: wp-user/user/widget.php:64 wp-user/user/shortcode.php:103
+#: wp-user/user/filter.php:353 wp-user/user/view/profile.php:158
+msgid "Logout"
+msgstr "Çıkış Yap"
+
+#: wp-user/user/widget.php:104
+msgid "Logged-out title"
+msgstr "Çıkış yapmış ünvan"
+
+#: wp-user/user/widget.php:112
+msgid "Logged-in title"
+msgstr "Giriş yapmış başlık"
+
+#: wp-user/user/widget.php:123
+msgid "Show Register tab"
+msgstr "Kayıt Ol sekmesini göster"
+
+#: wp-user/user/widget.php:131
+msgid "Show forgot password tab"
+msgstr "Şifremi unuttum sekmesini göster"
+
+#: wp-user/user/widget.php:139
+msgid "Show field icons"
+msgstr "Alan simgelerini göster"
+
+#: wp-user/user/widget.php:147
+msgid "Show logged-in user avatar"
+msgstr "Giriş yapmış kullanıcı avatarını göster"
+
+#: wp-user/user/shortcode.php:112 wp-user/user/view/register.php:5
+#: wp-user/user/view/register.php:76 wp-user/user/view/login.php:42
+#: wp-user/user/view/widgetView.php:42 wp-user/user/view/widgetView.php:151
+msgid "Sign Up"
+msgstr "Kaydol"
+
+#: wp-user/user/shortcode.php:114 wp-user/user/view/register.php:88
+#: wp-user/user/view/login.php:5 wp-user/user/view/login.php:29
+#: wp-user/user/view/widgetView.php:30 wp-user/user/view/widgetView.php:71
+#: wp-user/user/view/widgetView.php:158 wp-user/user/view/forgot.php:33
+msgid "Sign In"
+msgstr "Kaydol"
+
+#: wp-user/user/shortcode.php:246
+msgid "Send Message to"
+msgstr "Mesaj gönder"
+
+#: wp-user/user/shortcode.php:260
+msgid "From"
+msgstr "From"
+
+#: wp-user/user/shortcode.php:265 wp-user/user/shortcode.php:267
+msgid "Subject"
+msgstr "konu"
+
+#: wp-user/user/shortcode.php:270 wp-user/user/shortcode.php:272
+msgid "Message"
+msgstr "Mesaj"
+
+#: wp-user/user/shortcode.php:290
+msgid "Close"
+msgstr "Kapat"
+
+#: wp-user/user/shortcode.php:294 wp-user/user/class-user-my-profile.php:448
+msgid "Send"
+msgstr "göndermek"
+
+#: wp-user/user/shortcode.php:306
+msgid "Member List"
+msgstr "Üye Listesi"
+
+#: wp-user/user/shortcode.php:331
+msgid "Send Mail"
+msgstr "Posta göndermek"
+
+#: wp-user/user/shortcode.php:703
+msgid " per page"
+msgstr "Sayfa başına"
+
+#: wp-user/user/class-user-action.php:446
+#: wp-user/user/class-user-action.php:542
+msgid "Invalid Password"
+msgstr "geçersiz şifre"
+
+#: wp-user/user/class-user-action.php:930
+msgid "Your account has been aprroved. "
+msgstr "Hesabınız onaylandı."
+
+#: wp-user/user/class-user-action.php:932
+msgid "Click here to login."
+msgstr "Giriş yapmak için buraya tıklayın."
+
+#: wp-user/user/filter.php:275
+msgid "You have <span class=\"notification_count\">"
+msgstr ""
+
+#: wp-user/user/filter.php:348
+msgid "Profile"
+msgstr "Profil"
+
+#: wp-user/user/class-user-my-profile.php:113
+msgid "Display name"
+msgstr "Ekran adı"
+
+#: wp-user/user/view/profile.php:134
+msgid "Profile Information"
+msgstr "profil bilgisi"
+
+#: wp-user/user/view/profile.php:190
+msgid "Notifications"
+msgstr "Bildirimler"
+
+#: wp-user/user/view/profile.php:192
+msgid "Clear All"
+msgstr "Hepsini temizle"
+
+#: wp-user/user/view/register.php:49 wp-user/user/view/widgetView.php:125
+msgid "I agree to the"
+msgstr "Katılıyorum"
+
+#: wp-user/user/view/register.php:49 wp-user/user/view/widgetView.php:125
+msgid "terms"
+msgstr "şartlar"
+
+#: wp-user/user/view/login.php:7 wp-user/user/view/widgetView.php:37
+#: wp-user/user/view/forgot.php:4
+msgid "Forgot Password"
+msgstr "Parolanızı mı unuttunuz"
+
+#: wp-user/user/view/widgetView.php:12
+msgid "Username or Email"
+msgstr "Kullanıcı adı ya da email"
+
+#: wp-user/user/view/widgetView.php:20 wp-user/user/view/widgetView.php:103
+msgid "Password"
+msgstr "Parola"
+
+#: wp-user/user/view/widgetView.php:64 wp-user/user/view/forgot.php:24
+msgid "Forgot"
+msgstr "Unuttun"
+
+#: wp-user/user/view/widgetView.php:111
+msgid "Retype Password"
+msgstr "Şifrenizi yeniden yazın"
+
+
+#: user/view/profile.php:194
+msgid "Notifications"
+msgstr "Bildirimler"
+
+#: user/view/profile.php:196
+msgid "Clear All"
+msgstr "Hepsini temizle"
+
+#: user/view/register.php:49 user/view/widgetView.php:125
+msgid "I agree to the"
+msgstr "Katılıyorum"
+
+#: user/view/register.php:49 user/view/widgetView.php:125
+msgid "terms"
+msgstr "şartlar"
+
+#: user/view/widgetView.php:12
+msgid "Username or Email"
+msgstr "Kullanıcı adı ya da email"
+
+#: user/view/widgetView.php:20 user/view/widgetView.php:103
+msgid "Password"
+msgstr "Parola"
+
+#: user/view/widgetView.php:111
+msgid "Retype Password"
+msgstr "Şifrenizi yeniden yazın"
+
+#: user/widget.php:103
+msgid "Logged-out title"
+msgstr "Çıkış yapmış ünvan"
+
+#: user/widget.php:111
+msgid "Logged-in title"
+msgstr "Çıkış yapmış ünvan"
+
+#: user/widget.php:122
+msgid "Show Register tab"
+msgstr "Kayıt Ol sekmesini göster"
+
+#: user/widget.php:130
+msgid "Show forgot password tab"
+msgstr "Şifremi unuttum sekmesini göster"
+
+#: user/widget.php:138
+msgid "Show field icons"
+msgstr "Alan simgelerini göster"
+
+#: user/widget.php:146
+msgid "Show logged-in user avatar"
+msgstr "Giriş yapmış kullanıcı avatarını göster"

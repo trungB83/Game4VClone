@@ -1,0 +1,644 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-userLast-Translator:\n"
+"Language-Team: wpuser <y.bejgamwar@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;_e\n"
+"X-Poedit-Basepath: .\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"X-Poedit-SearchPath-0: wp-user\n"
+
+#: wp-user/admin/class-admin-ajax-action.php:32
+#: wp-user/admin/class-admin-ajax-action.php:40
+#: wp-user/admin/class-admin-ajax-action.php:165
+#: wp-user/admin/class-admin-ajax-action.php:173
+#: wp-user/admin/class-admin-ajax-action.php:248
+#: wp-user/admin/class-admin-ajax-action.php:256
+msgid ""
+"Invalid form data. form request came from the somewhere else not current "
+"site!"
+msgstr ""
+"Неверные данные формы. Форма запроса пришла откуда-то еще не текущая"
+"сайт!"
+
+#: wp-user/admin/view/notification.php:133
+msgid "You have "
+msgstr "У тебя есть"
+
+#: wp-user/admin/view/view-header.php:6
+msgid "Wp User"
+msgstr "Пользователь Wp"
+
+#: wp-user/admin/view/view-header.php:99
+msgid " Wp User"
+msgstr "Пользователь Wp"
+
+#: wp-user/admin/view/view-addon.php:104
+#: wp-user/admin/view/view-user-list.php:8
+msgid "WP User"
+msgstr "Пользователь Wp"
+
+#: wp-user/admin/view/view-addon.php:105 wp-user/admin/view/view-addon.php:109
+msgid "Add-ons"
+msgstr "Дополнения"
+
+#: wp-user/admin/view/view-addon.php:108
+#: wp-user/admin/view/view-user-list.php:12
+msgid "Home"
+msgstr "Главная"
+
+#: wp-user/admin/view/view-addon.php:120
+msgid "Pro Add-ons"
+msgstr "Pro дополнения"
+
+#: wp-user/admin/view/view-addon.php:123
+msgid "Features"
+msgstr "Характеристики"
+
+#: wp-user/admin/view/view-addon.php:132
+msgid "WP User Add-ons"
+msgstr "Пользовательские дополнения WP"
+
+#: wp-user/admin/view/view-addon.php:135
+msgid "Get all add-ons access and Premium Support with"
+msgstr "Получите доступ ко всем дополнениям и Premium Support "
+
+#: wp-user/admin/view/view-addon.php:137
+msgid "Personal/Business/Developer"
+msgstr "Personal / Бизнес / Разработчик"
+
+#: wp-user/admin/view/view-addon.php:138
+msgid "Pack (All Pro Features)"
+msgstr "Пакет (Все Pro Особенности)"
+
+#: wp-user/admin/view/view-addon.php:168
+msgid "Deactivate"
+msgstr "дезактивироват"
+
+#: wp-user/admin/view/view-addon.php:173
+msgid "Activate"
+msgstr "активировать"
+
+#: wp-user/admin/view/view-addon.php:178 wp-user/admin/view/view-addon.php:204
+#: wp-user/admin/view/view-footer.php:15
+msgid "Buy Now"
+msgstr "купить сейчас"
+
+#: wp-user/admin/view/view-addon.php:196 wp-user/admin/view/view-footer.php:7
+msgid "Documentation"
+msgstr "Документация"
+
+#: wp-user/admin/view/view-addon.php:200 wp-user/admin/view/view-addon.php:221
+#: wp-user/admin/view/view-addon.php:231 wp-user/admin/view/view-addon.php:506
+#: wp-user/admin/view/view-addon.php:519 wp-user/admin/view/view-footer.php:11
+msgid "Support"
+msgstr "Служба поддержки"
+
+#: wp-user/admin/view/view-addon.php:221 wp-user/admin/view/view-addon.php:506
+msgid "Paid Customization"
+msgstr "Платная настройка"
+
+#: wp-user/admin/view/view-addon.php:242
+msgid "Free"
+msgstr "Свободно"
+
+#: wp-user/admin/view/view-addon.php:412
+msgid "Pro"
+msgstr "профессионал"
+
+#: wp-user/admin/view/view-user-list.php:13
+#: wp-user/admin/view/view-user-list.php:29
+msgid "Users"
+msgstr "пользователей"
+
+#: wp-user/admin/view/view-user-list.php:31
+msgid "Login Log"
+msgstr "Вход в систему"
+
+#: wp-user/admin/view/view-user-list.php:87 wp-user/user/shortcode.php:462
+msgid "Error"
+msgstr "ошибка"
+
+#: wp-user/admin/view/view-user-list.php:91
+#: wp-user/admin/view/view-user-list.php:470
+msgid "Approved"
+msgstr "Одобренный"
+
+#: wp-user/admin/view/view-user-list.php:92
+#: wp-user/admin/view/view-user-list.php:210
+msgid "Deny"
+msgstr "Отрицать"
+
+#: wp-user/admin/view/view-user-list.php:96
+#: wp-user/admin/view/view-user-list.php:466
+msgid "Denied"
+msgstr "Отрицать"
+
+#: wp-user/admin/view/view-user-list.php:97
+#: wp-user/admin/view/view-user-list.php:208
+msgid "Approve"
+msgstr "Одобренный"
+
+#: wp-user/admin/view/view-user-list.php:129
+#: wp-user/admin/view/view-user-list.php:510
+msgid "Only Include these fields in export"
+msgstr "Включить только эти поля в экспорт"
+
+#: wp-user/admin/view/view-user-list.php:134
+msgid ""
+"A comma seperated list of fields to include only in the export. e.g.  ID,"
+"user_login,user_nicename,display_name,user_email"
+msgstr ""
+"Разделенный запятыми список полей, которые нужно включить только в экспорт.
+"User_login, user_nicename, display_name, user_email"
+
+#: wp-user/admin/view/view-user-list.php:147
+#: wp-user/admin/view/view-user-list.php:529 wp-user/user/shortcode.php:556
+msgid "Search"
+msgstr "Поиск"
+
+#: wp-user/admin/view/view-user-list.php:175
+msgid "Filter by Type"
+msgstr "Фильтровать по типу"
+
+#: wp-user/admin/view/view-user-list.php:185
+msgid "All"
+msgstr "Все"
+
+#: wp-user/admin/view/view-user-list.php:206
+msgid "Bulk Actions"
+msgstr "Массовые действия"
+
+#: wp-user/admin/view/view-user-list.php:212
+msgid "Export CSV"
+msgstr "Экспорт CSV"
+
+#: wp-user/admin/view/view-user-list.php:219
+msgid "Apply"
+msgstr "Применять"
+
+#: wp-user/admin/view/view-user-list.php:241
+#: wp-user/admin/view/view-user-list.php:561
+msgid "Sort by"
+msgstr "Сортировать по"
+
+#: wp-user/admin/view/view-user-list.php:253
+msgid "Username A-Z"
+msgstr "Имя пользователя A-Z"
+
+#: wp-user/admin/view/view-user-list.php:261
+msgid "Username Z-A"
+msgstr "Имя пользователя Z-A"
+
+#: wp-user/admin/view/view-user-list.php:272
+msgid "Name A-Z"
+msgstr "Имя А-Я"
+
+#: wp-user/admin/view/view-user-list.php:280
+msgid "Name Z-A"
+msgstr "Имя Z-A"
+
+#: wp-user/admin/view/view-user-list.php:291
+msgid "Role Asc"
+msgstr "Роль Asc"
+
+#: wp-user/admin/view/view-user-list.php:299
+msgid "Role Desc"
+msgstr "Роль Desc"
+
+#: wp-user/admin/view/view-user-list.php:310
+msgid "Status Asc"
+msgstr "Статус Asc"
+
+#: wp-user/admin/view/view-user-list.php:319
+msgid "Status Desc"
+msgstr "Статус Desc"
+
+#: wp-user/admin/view/view-user-list.php:348
+#: wp-user/admin/view/view-user-list.php:648
+msgid "Items per Page"
+msgstr "Пункты на странице"
+
+#: wp-user/admin/view/view-user-list.php:360
+#: wp-user/admin/view/view-user-list.php:660
+msgid "10 per page"
+msgstr "10 на страницу"
+
+#: wp-user/admin/view/view-user-list.php:368
+#: wp-user/admin/view/view-user-list.php:668 wp-user/user/shortcode.php:711
+msgid "20 per page"
+msgstr "20 на страницу"
+
+#: wp-user/admin/view/view-user-list.php:376
+#: wp-user/admin/view/view-user-list.php:676 wp-user/user/shortcode.php:719
+msgid "50 per page"
+msgstr "50 на страницу"
+
+#: wp-user/admin/view/view-user-list.php:387 wp-user/user/shortcode.php:730
+msgid "ViewAll"
+msgstr "Посмотреть все"
+
+#: wp-user/admin/view/view-user-list.php:421
+#: wp-user/user/class-user-my-profile.php:106
+#: wp-user/user/view/widgetView.php:87
+msgid "Username"
+msgstr "имя пользователя"
+
+#: wp-user/admin/view/view-user-list.php:425
+msgid "Name"
+msgstr "название"
+
+#: wp-user/admin/view/view-user-list.php:428
+#: wp-user/admin/view/view-user-list.php:728 wp-user/user/shortcode.php:262
+#: wp-user/user/view/widgetView.php:55 wp-user/user/view/widgetView.php:95
+msgid "Email"
+msgstr "Эл. адрес"
+
+#: wp-user/admin/view/view-user-list.php:431
+msgid "Role"
+msgstr "Роль"
+
+#: wp-user/admin/view/view-user-list.php:434
+msgid "Status"
+msgstr "Статус"
+
+#: wp-user/admin/view/view-user-list.php:474
+msgid "Pending"
+msgstr "в ожидании"
+
+#: wp-user/admin/view/view-user-list.php:494
+msgid ""
+"Track records of user login with set of multiple information like ip,time,"
+"user name,browser information etc"
+msgstr ""
+"Отслеживание записей входа пользователя с множеством информации, такой как IP, время, "
+"имя пользователя, информация о браузере и т. д."
+
+#: wp-user/admin/view/view-user-list.php:573
+msgid "Time Asc"
+msgstr "Время Asc"
+
+#: wp-user/admin/view/view-user-list.php:582
+msgid "Time Desc"
+msgstr "Время Desc"
+
+#: wp-user/admin/view/view-user-list.php:594
+msgid "User ID A-Z"
+msgstr "Идентификатор пользователя A-Z"
+
+#: wp-user/admin/view/view-user-list.php:602
+msgid "User ID Z-A"
+msgstr "Идентификатор пользователя Z-A"
+
+#: wp-user/admin/view/view-user-list.php:613
+msgid "User A-Z"
+msgstr "Пользователь A-Z"
+
+#: wp-user/admin/view/view-user-list.php:620
+msgid "User Z-A"
+msgstr "Пользователь Z-A"
+
+#: wp-user/admin/view/view-user-list.php:687
+msgid "View All"
+msgstr "Посмотреть все"
+
+#: wp-user/admin/view/view-user-list.php:722
+msgid "ID"
+msgstr "Я БЫ"
+
+#: wp-user/admin/view/view-user-list.php:725
+msgid "User"
+msgstr "пользователь"
+
+#: wp-user/admin/view/view-user-list.php:731
+msgid "Description"
+msgstr "Описание"
+
+#: wp-user/admin/view/view-user-list.php:734
+msgid "IP"
+msgstr "IP"
+
+#: wp-user/admin/view/view-user-list.php:737
+msgid "Time"
+msgstr "Время"
+
+#: wp-user/admin/view/view-user-list.php:774
+msgid "No Login Logs Found"
+msgstr "Не найдено ни одного логина"
+
+#: wp-user/admin/view/view-footer.php:15
+msgid "Pro Version"
+msgstr "Pro версия"
+
+#: wp-user/admin/view/view-footer.php:24
+msgid "If you like WP User please leave us"
+msgstr "Если вам нравится WP User, пожалуйста, оставьте нас"
+
+#: wp-user/admin/view/view-footer.php:28
+msgid "A huge thank you from WP User in advance!"
+msgstr "Огромное спасибо WP User заранее!"
+
+#: wp-user/admin/view/view-setting.php:23
+msgid "General"
+msgstr "генеральный"
+
+#: wp-user/admin/view/view-setting.php:25
+msgid "Page Setup"
+msgstr "Настройка страницы"
+
+#: wp-user/admin/view/view-setting.php:27
+msgid "Security"
+msgstr "Безопасность"
+
+#: wp-user/admin/view/view-setting.php:29
+msgid "Email Notifications"
+msgstr "Уведомления по электронной почте"
+
+#: wp-user/admin/view/view-setting.php:38
+msgid "Help"
+msgstr "Помогите"
+
+#: wp-user/admin/view/view-setting.php:40
+msgid "Subscribe"
+msgstr "Подписывайся"
+
+#: wp-user/admin/view/view-setting.php:84
+#: wp-user/admin/view/view-setting.php:237
+#: wp-user/admin/view/view-setting.php:291
+msgid "Update"
+msgstr "Обновить"
+
+#: wp-user/admin/view/view-setting.php:92
+msgid "Page"
+msgstr "страница"
+
+#: wp-user/admin/view/view-setting.php:107
+msgid "WP User Page"
+msgstr "Страница пользователя WP"
+
+#: wp-user/admin/view/view-setting.php:121
+#: wp-user/admin/view/view-setting.php:139
+msgid "View Page"
+msgstr "Просмотр страницы"
+
+#: wp-user/admin/view/view-setting.php:133
+msgid "WP User Members Page"
+msgstr "Страница пользователей WP"
+
+#: wp-user/admin/view/view-setting.php:156
+msgid "Page Title"
+msgstr "Заголовок страницы"
+
+#: wp-user/admin/view/view-setting.php:166
+msgid "Member Page Title"
+msgstr "Заголовок страницы участника"
+
+#: wp-user/admin/view/view-setting.php:175
+msgid "Rebuild Pages"
+msgstr "Восстановить страницы"
+
+#: wp-user/admin/view/view-setting.php:177
+msgid ""
+"OR Use [wp_user] shortcode for display login, registration, forgot password "
+"form."
+msgstr ""
+"ИЛИ Используйте [wp_user] шорткод для отображения логина, регистрации, забытого пароля "
+«Форма."
+
+#: wp-user/admin/view/view-setting.php:179
+msgid "Use [wp_user_member] shortcode for display members/users list."
+msgstr ""
+"
+Используйте короткий код [wp_user_member] для отображения списка участников / пользователей."
+
+#: wp-user/admin/view/view-setting.php:312
+msgid "Shortcode"
+msgstr "Короткий номер"
+
+#: wp-user/admin/view/view-setting.php:320
+msgid ""
+"\n"
+"                                    <b> [wp_user] </b> shortcode for display "
+"login, registration, forgot password form.<br>\n"
+"                                    You Can use following attributes for "
+"custom form<br>\n"
+"                                    <b>
+<b> [wp_user] </b> gösterilecek kısa kod "
+"giriş, kayıt, şifre formunu unuttum. <br> \ n"
+msgstr ""
+
+#: wp-user/admin/view/view-setting.php:395
+msgid "Disable Signup Form"
+msgstr "Отключить регистрационную форму"
+
+#: wp-user/admin/view/view-setting.php:403
+msgid ""
+"Go to Dashboard->WP User ->General <br>\n"
+"                                            1) Click on 'Disable Signup "
+"Form' check box.<br> \n"
+"                                            2) Click on 'Update' for Save "
+"setting"
+msgstr ""
+
+#: wp-user/user/widget.php:64 wp-user/user/shortcode.php:103
+#: wp-user/user/filter.php:353 wp-user/user/view/profile.php:158
+msgid "Logout"
+msgstr "Выйти"
+
+#: wp-user/user/widget.php:104
+msgid "Logged-out title"
+msgstr "Выход из системы"
+
+#: wp-user/user/widget.php:112
+msgid "Logged-in title"
+msgstr "Зарегистрированный заголовок"
+
+#: wp-user/user/widget.php:123
+msgid "Show Register tab"
+msgstr "Показать вкладку «Регистрация»"
+
+#: wp-user/user/widget.php:131
+msgid "Show forgot password tab"
+msgstr "Показать вкладку забытого пароля"
+
+#: wp-user/user/widget.php:139
+msgid "Show field icons"
+msgstr "Показать значки полей"
+
+#: wp-user/user/widget.php:147
+msgid "Show logged-in user avatar"
+msgstr "Показать вошедшего в систему аватара пользователя"
+
+#: wp-user/user/shortcode.php:112 wp-user/user/view/register.php:5
+#: wp-user/user/view/register.php:76 wp-user/user/view/login.php:42
+#: wp-user/user/view/widgetView.php:42 wp-user/user/view/widgetView.php:151
+msgid "Sign Up"
+msgstr "Подписаться"
+
+#: wp-user/user/shortcode.php:114 wp-user/user/view/register.php:88
+#: wp-user/user/view/login.php:5 wp-user/user/view/login.php:29
+#: wp-user/user/view/widgetView.php:30 wp-user/user/view/widgetView.php:71
+#: wp-user/user/view/widgetView.php:158 wp-user/user/view/forgot.php:33
+msgid "Sign In"
+msgstr "Войти в систему"
+
+#: wp-user/user/shortcode.php:246
+msgid "Send Message to"
+msgstr "Отправить сообщение"
+
+#: wp-user/user/shortcode.php:260
+msgid "From"
+msgstr "От"
+
+#: wp-user/user/shortcode.php:265 wp-user/user/shortcode.php:267
+msgid "Subject"
+msgstr "Предмет"
+
+#: wp-user/user/shortcode.php:270 wp-user/user/shortcode.php:272
+msgid "Message"
+msgstr "Сообщение"
+
+#: wp-user/user/shortcode.php:290
+msgid "Close"
+msgstr "близко"
+
+#: wp-user/user/shortcode.php:294 wp-user/user/class-user-my-profile.php:448
+msgid "Send"
+msgstr "послать"
+
+#: wp-user/user/shortcode.php:306
+msgid "Member List"
+msgstr "Список членов"
+
+#: wp-user/user/shortcode.php:331
+msgid "Send Mail"
+msgstr "Отправить письмо"
+
+#: wp-user/user/shortcode.php:703
+msgid " per page"
+msgstr "на страницу"
+
+#: wp-user/user/class-user-action.php:446
+#: wp-user/user/class-user-action.php:542
+msgid "Invalid Password"
+msgstr "неправильный пароль"
+
+#: wp-user/user/class-user-action.php:930
+msgid "Your account has been aprroved. "
+msgstr "Ваш аккаунт был подтвержден."
+
+#: wp-user/user/class-user-action.php:932
+msgid "Click here to login."
+msgstr "Нажмите здесь, чтобы войти."
+
+#: wp-user/user/filter.php:275
+msgid "You have <span class=\"notification_count\">"
+msgstr "У вас есть <span class = \ "messages_count \">"
+
+#: wp-user/user/filter.php:348
+msgid "Profile"
+msgstr "Профиль"
+
+#: wp-user/user/class-user-my-profile.php:113
+msgid "Display name"
+msgstr "Отображаемое имя"
+
+#: wp-user/user/view/profile.php:134
+msgid "Profile Information"
+msgstr "информация профиля"
+
+#: wp-user/user/view/profile.php:190
+msgid "Notifications"
+msgstr "Уведомления"
+
+#: wp-user/user/view/profile.php:192
+msgid "Clear All"
+msgstr "Очистить все"
+
+#: wp-user/user/view/register.php:49 wp-user/user/view/widgetView.php:125
+msgid "I agree to the"
+msgstr "я согласен"
+
+#: wp-user/user/view/register.php:49 wp-user/user/view/widgetView.php:125
+msgid "terms"
+msgstr "термины"
+
+#: wp-user/user/view/login.php:7 wp-user/user/view/widgetView.php:37
+#: wp-user/user/view/forgot.php:4
+msgid "Forgot Password"
+msgstr "Забыли пароль"
+
+#: wp-user/user/view/widgetView.php:12
+msgid "Username or Email"
+msgstr "Имя пользователя или адрес электронной почты"
+
+#: wp-user/user/view/widgetView.php:20 wp-user/user/view/widgetView.php:103
+msgid "Password"
+msgstr "пароль"
+
+#: wp-user/user/view/widgetView.php:64 wp-user/user/view/forgot.php:24
+msgid "Forgot"
+msgstr "Забыл"
+
+#: wp-user/user/view/widgetView.php:111
+msgid "Retype Password"
+msgstr "Повторите ввод пароля"
+
+
+#: user/view/profile.php:194
+msgid "Notifications"
+msgstr "Уведомления"
+
+#: user/view/profile.php:196
+msgid "Clear All"
+msgstr "Очистить все"
+
+#: user/view/register.php:49 user/view/widgetView.php:125
+msgid "I agree to the"
+msgstr "я согласен"
+
+#: user/view/register.php:49 user/view/widgetView.php:125
+msgid "terms"
+msgstr "термины"
+
+#: user/view/widgetView.php:12
+msgid "Username or Email"
+msgstr "Имя пользователя или адрес электронной почты"
+
+#: user/view/widgetView.php:20 user/view/widgetView.php:103
+msgid "Password"
+msgstr "пароль"
+
+#: user/view/widgetView.php:111
+msgid "Retype Password"
+msgstr "Повторите ввод пароля"
+
+#: user/widget.php:103
+msgid "Logged-out title"
+msgstr "Выход из системы"
+
+#: user/widget.php:111
+msgid "Logged-in title"
+msgstr "Зарегистрированный заголовок"
+
+#: user/widget.php:122
+msgid "Show Register tab"
+msgstr "Показать вкладку «Регистрация»"
+
+#: user/widget.php:130
+msgid "Show forgot password tab"
+msgstr "Показать вкладку забытого пароля"
+
+#: user/widget.php:138
+msgid "Show field icons"
+msgstr "Показать значки полей"
+
+#: user/widget.php:146
+msgid "Show logged-in user avatar"
+msgstr "Показать вошедшего в систему аватара пользователя"
